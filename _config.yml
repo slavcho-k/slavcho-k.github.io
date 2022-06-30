@@ -1,13 +1,13 @@
 title:              Slavcho Karafilovski
 email:              slavco@test.com
-description:        Test blog
+description:        Tech blog
 author:             Slavcho Karafilovski
 baseurl:            ""
 url:                "https://testblog.github.io"
 
 # Social Profiles
 twitter_username:   
-github_username:
+github_username: "https://github.com/slavcho-k"
 facebook_username:  
 instagram_username:  
 linkedin_username:
