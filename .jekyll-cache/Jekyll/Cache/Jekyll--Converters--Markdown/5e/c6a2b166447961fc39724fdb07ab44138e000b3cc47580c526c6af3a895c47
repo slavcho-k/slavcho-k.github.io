@@ -1,17 +1,11 @@
----
-layout: post
-title: "GPU prices sinking"
-subtitle: "GPU prices sinking as crypto mining profitability plummets"
-background: '/img/posts/gpu-bg.jpg'
----
-
+I"G
 <p>GPU prices are sinking, and they've been for months. A recent report shows just how quickly prices are going down, claiming that prices have dropped by 50% as the markket deals with the crypto fallout.</p>
 
 <p>According to the data, the average price of a RTX 3080 on the secondhand market has dropped by nearly 50% since April.</p>
 
 <p>Although multiple factors contributed to the GPU shortage, the demand from cryptocurrency miners seems to be the main driver. In the first half of 2021, for example, a quareter of all GPU sales went to crypto miners. Some estimates suggest that miners spent $15 billion on GPUs just for mining Ethereum.</p>
 
-<img class="img-fluid" src="https://static.techspot.com/articles-info/2486/images/2022-06-21-image-16.jpg" alt="Demo Image">
+<p><img class="img-fluid" src="https://static.techspot.com/articles-info/2486/images/2022-06-21-image-16.jpg" alt="Demo Image" /></p>
 
 <p>Both AMD and Nvidia saw a huge boom in their growth, particulary, Nvidia saw 50% growth in revenue in the last two years, despite the fact that the company reportet that less than 1% of it's gaming-related sales came from the company's mining-focused GPUs. Nvidia added a limiter to it's gaming graphics cards to discourage mining, but hackers were able to bypass that completely in May.</p>
 
@@ -25,4 +19,5 @@ background: '/img/posts/gpu-bg.jpg'
 
 <p>It's impossible to predict what exactly is going to happen, but the current situation is giving gamers a break from hunting for an overpriced GPU.</p>
 
-<p>Source: <a href="https://www.digitaltrends.com/computing/gpu-prices-not-falling-crashing-crypto/">Digital Trends</a>. Photos: <a href="https://www.techspot.com/">TechSpot</a>.</p>
+<p>Source: <a href="https://www.digitaltrends.com/computing/gpu-prices-not-falling-crashing-crypto/">Digital Trends</a>. Photographs by <a href="https://unsplash.com/">Unsplash</a>.</p>
+:ET

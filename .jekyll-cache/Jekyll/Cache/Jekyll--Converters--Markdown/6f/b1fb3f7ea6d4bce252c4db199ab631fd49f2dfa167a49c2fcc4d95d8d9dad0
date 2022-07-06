@@ -1,11 +1,4 @@
----
-layout: post
-title: "Top 10 most in-demand tech jobs for 2022"
-subtitle: "From security pros to developers and data analysts, here's what to look for in 2022"
-background: '/img/posts/jobs-bg.jpg'
----
-
-<h2 class = "section-heading">Salaries in IT</h2>
+I"ú<h2 class="section-heading">Salaries in IT</h2>
 <p></p>
 
 <p>The IT industry is very wide and broad. Even entry position salaries start at around $60.000 in the US. High-end jobs can range from $250.000 to $500.000 per year, but those jobs require many years of experience, certain certification, and other skills. If you're someone looking for a job in tech, be prepared to roll up your sleeves, and get to work!</p>
@@ -34,7 +27,7 @@ background: '/img/posts/jobs-bg.jpg'
 
 <p>Data Architects jobs are hot in 2022 because of increase in the usage of the cloud. Cloud database administrators couldn't function without the help of Data Architects. Also Data architects find their cooperation with AI engineers, IT security managers as well as applications architects, to provide the necessary data for their work. Data Architects need to be able to "manipulate" with SQL and NoSQL databases, and dig deep into the fundamentals of statistics and discrete mathematics.</p>
 
-<img class="img-fluid" src="https://www.usnews.com/object/image/00000179-327e-da49-a57f-f67e62e20000/210503-softwaredeveloper-stock.jpg?update-time=1620049889805&size=responsive640" alt="Demo Image">
+<p><img class="img-fluid" src="https://www.usnews.com/object/image/00000179-327e-da49-a57f-f67e62e20000/210503-softwaredeveloper-stock.jpg?update-time=1620049889805&amp;size=responsive640" alt="Demo Image" /></p>
 
 <h2 class="section-heading">6. Data Scientis</h2>
 
@@ -59,7 +52,6 @@ background: '/img/posts/jobs-bg.jpg'
 
 <p>Full-Stack developers work on both the front end as well as the back end. They have the ability to develop applications from start to finish, and because of this versatility, they are very well paid. Since full-stack development is quite a broad field, including everything from Word-Press to cloud application developers, the salaries range is quite big. But the positive thing is that this type of developers, are always in demand, making it one of the best fields to get in. The median salary in the US for Full-Stack developers is just under $100.000 yearly. </p>
 
-<p>Source: <a href="https://www.techrepublic.com/article/hottest-tech-jobs/">Tech Republic</a>. Photos: <a href="https://www.usnews.com">US News</a>.</p>
+<p>Source: <a href="https://www.digitaltrends.com/computing/gpu-prices-not-falling-crashing-crypto/">Digital Trends</a>. Photos: <a href="https://www.techspot.com/">TechSpot</a>.</p>
 
-
-
+:ET
